@@ -13,14 +13,14 @@ This is a portfolio website created using React. It has screenshots with links t
 ## Installation: 
 no installation required. App is deployed from Github pages.
 ## Usage:
-<!-- Insert link to github here -->
+https://github.com/BrandonConte/BCReactPortfolio
 
 ![portfoliopic](portfoliopic.png?raw=true "screenshot")
 
 ## Contributing:
 Please go to the Github repository provided to contribute to this project.
 
-<!-- Insert link to github here -->
+https://github.com/BrandonConte/BCReactPortfolio
 
 ## Questions:
 If you have questions about this project, please contact:
